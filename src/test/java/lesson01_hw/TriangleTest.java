@@ -17,7 +17,7 @@ class TriangleTest {
     }
 
     @Test
-    void testNotTriangle() {
+    void testNaN() {
         //given
         Triangle triangle = new Triangle(4, 1, 7);
         //then
