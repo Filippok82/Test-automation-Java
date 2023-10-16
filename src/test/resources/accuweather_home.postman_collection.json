@@ -1,0 +1,227 @@
+[
+  {
+    "ID": "202",
+    "LocalizedName": "Busia",
+    "EnglishName": "Busia",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "UG"
+  },
+  {
+    "ID": "06",
+    "LocalizedName": "Buskerud",
+    "EnglishName": "Buskerud",
+    "Level": 1,
+    "LocalizedType": "County",
+    "EnglishType": "County",
+    "CountryID": "NO"
+  },
+  {
+    "ID": "219",
+    "LocalizedName": "Butaleja",
+    "EnglishName": "Butaleja",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "UG"
+  },
+  {
+    "ID": "119",
+    "LocalizedName": "Butambala",
+    "EnglishName": "Butambala",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "UG"
+  },
+  {
+    "ID": "B",
+    "LocalizedName": "Butha-Buthe",
+    "EnglishName": "Butha-Buthe",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "LS"
+  },
+  {
+    "ID": "BU",
+    "LocalizedName": "Butnan",
+    "EnglishName": "Butnan",
+    "Level": 1,
+    "LocalizedType": "Popularates",
+    "EnglishType": "Popularates",
+    "CountryID": "LY"
+  },
+  {
+    "ID": "120",
+    "LocalizedName": "Buvuma",
+    "EnglishName": "Buvuma",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "UG"
+  },
+  {
+    "ID": "226",
+    "LocalizedName": "Buyende",
+    "EnglishName": "Buyende",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "UG"
+  },
+  {
+    "ID": "BZ",
+    "LocalizedName": "Buzău",
+    "EnglishName": "Buzău",
+    "Level": 1,
+    "LocalizedType": "Department",
+    "EnglishType": "Department",
+    "CountryID": "RO"
+  },
+  {
+    "ID": "59",
+    "LocalizedName": "Cà Mau",
+    "EnglishName": "Cà Mau",
+    "Level": 1,
+    "LocalizedType": "Province",
+    "EnglishType": "Province",
+    "CountryID": "VN"
+  },
+  {
+    "ID": "5",
+    "LocalizedName": "Caaguazú",
+    "EnglishName": "Caaguazú",
+    "Level": 1,
+    "LocalizedType": "Department",
+    "EnglishType": "Department",
+    "CountryID": "PY"
+  },
+  {
+    "ID": "6",
+    "LocalizedName": "Caazapá",
+    "EnglishName": "Caazapá",
+    "Level": 1,
+    "LocalizedType": "Department",
+    "EnglishType": "Department",
+    "CountryID": "PY"
+  },
+  {
+    "ID": "CA",
+    "LocalizedName": "Cabañas",
+    "EnglishName": "Cabañas",
+    "Level": 1,
+    "LocalizedType": "Department",
+    "EnglishType": "Department",
+    "CountryID": "SV"
+  },
+  {
+    "ID": "CAB",
+    "LocalizedName": "Cabinda",
+    "EnglishName": "Cabinda",
+    "Level": 1,
+    "LocalizedType": "Province",
+    "EnglishType": "Province",
+    "CountryID": "AO"
+  },
+  {
+    "ID": "P",
+    "LocalizedName": "Cabo Delgado",
+    "EnglishName": "Cabo Delgado",
+    "Level": 1,
+    "LocalizedType": "Province",
+    "EnglishType": "Province",
+    "CountryID": "MZ"
+  },
+  {
+    "ID": "CR",
+    "LocalizedName": "Cabo Rojo",
+    "EnglishName": "Cabo Rojo",
+    "Level": 1,
+    "LocalizedType": "Municipio",
+    "EnglishType": "Municipio",
+    "CountryID": "PR"
+  },
+  {
+    "ID": "CA",
+    "LocalizedName": "Cacheu",
+    "EnglishName": "Cacheu",
+    "Level": 1,
+    "LocalizedType": "Region",
+    "EnglishType": "Region",
+    "CountryID": "GW"
+  },
+  {
+    "ID": "CAY",
+    "LocalizedName": "Caerphilly",
+    "EnglishName": "Caerphilly",
+    "Level": 1,
+    "LocalizedType": "Unitary Authority",
+    "EnglishType": "Unitary Authority",
+    "CountryID": "GB"
+  },
+  {
+    "ID": "CAG",
+    "LocalizedName": "Cagayan",
+    "EnglishName": "Cagayan",
+    "Level": 1,
+    "LocalizedType": "Province",
+    "EnglishType": "Province",
+    "CountryID": "PH"
+  },
+  {
+    "ID": "CG",
+    "LocalizedName": "Caguas",
+    "EnglishName": "Caguas",
+    "Level": 1,
+    "LocalizedType": "Municipio",
+    "EnglishType": "Municipio",
+    "CountryID": "PR"
+  },
+  {
+    "ID": "CA",
+    "LocalizedName": "Cahul",
+    "EnglishName": "Cahul",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "MD"
+  },
+  {
+    "ID": "C",
+    "LocalizedName": "Cairo",
+    "EnglishName": "Cairo",
+    "Level": 1,
+    "LocalizedType": "Governorate",
+    "EnglishType": "Governorate",
+    "CountryID": "EG"
+  },
+  {
+    "ID": "CAJ",
+    "LocalizedName": "Cajamarca",
+    "EnglishName": "Cajamarca",
+    "Level": 1,
+    "LocalizedType": "Region",
+    "EnglishType": "Region",
+    "CountryID": "PE"
+  },
+  {
+    "ID": "78",
+    "LocalizedName": "Calabria",
+    "EnglishName": "Calabria",
+    "Level": 1,
+    "LocalizedType": "Region",
+    "EnglishType": "Region",
+    "CountryID": "IT"
+  },
+  {
+    "ID": "CL",
+    "LocalizedName": "Călărași",
+    "EnglishName": "Călărași",
+    "Level": 1,
+    "LocalizedType": "District",
+    "EnglishType": "District",
+    "CountryID": "MD"
+  }
+]
