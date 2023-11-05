@@ -26,8 +26,8 @@ public class ProductHibernateTest extends AbstractHibernateClass {
         }
         Query query = getSession().createSQLQuery("SELECT * FROM products").addEntity(ProductsEntity.class);
         //then
-        Assertions.assertEquals(4, countTableSize);
-        Assertions.assertEquals(10, query.list().size());
+        Assertions.assertEquals(5, countTableSize);
+        Assertions.assertEquals(11, query.list().size());
     }
 
     @ParameterizedTest
