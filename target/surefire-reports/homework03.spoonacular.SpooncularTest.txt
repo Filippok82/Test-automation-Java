@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: homework03.spoonacular.SpooncularTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.799 s - in homework03.spoonacular.SpooncularTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.497 s - in homework03.spoonacular.SpooncularTest

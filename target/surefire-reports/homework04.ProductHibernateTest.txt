@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: homework04.ProductHibernateTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.517 s - in homework04.ProductHibernateTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.54 s - in homework04.ProductHibernateTest

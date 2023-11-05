@@ -1,0 +1,1 @@
+{"uuid":"0fc77324-ae28-4373-9503-e8e266100aa5","name":"testRoundDoorTrue()","children":["323892ff-aa93-4795-8e6e-c88008842125"],"befores":[{"name":"testCreatingDoor","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1699183037702,"stop":1699183037702}],"afters":[],"start":1699183037698,"stop":1699183037704}
